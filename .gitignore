@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+node_modules/
+.pytest_cache/
+.ruff_cache/
+make_history.sh
+*.db

@@ -1,0 +1,90 @@
+# AutoPilot BI - Agent Constitution
+# This file governs how AI coding agents and the application's own agents behave.
+
+## Project Context
+- AutoPilot BI: AI Business Operating System — Multi-Module Business Process Automation
+- Track A: Business Process Automation (Deploy or Die hackathon)
+- Stack: FastAPI backend, SQLite/PostgreSQL, Pandas, scikit-learn, Gemini (narrative only)
+- Active modules: Inventory & Sales Intelligence, HR Automation
+- Planned modules: Finance Automation, Operations Intelligence
+
+## Architectural Rules (Non-Negotiable)
+
+### Rule 1: Audit Everything
+Every agent MUST inherit from BaseAgent and call log_action() at every step.
+No agent may perform an action without producing an audit_log entry.
+If there is no audit entry, the action did not happen.
+
+### Rule 2: Human Approval Required
+ALL recommendations MUST be created with status="pending".
+No recommendation transitions to "approved" without an explicit human API call.
+ReportAgent MUST refuse to run if zero recommendations are approved.
+This rule applies identically to ALL modules — inventory and HR.
+
+### Rule 3: Deterministic Computation
+All numerical outputs (revenue, growth %, dead stock count, Business Health Score, fit scores)
+MUST come from Pandas or SQL operations. Never from LLM inference.
+LLM (Gemini) is permitted ONLY for converting computed facts into plain-language narrative.
+
+### Rule 4: Traceable Metadata
+Every API response that contains analysis data MUST include dataset_id and agent_name
+so the consumer can trace the data back to its source.
+
+### Rule 5: No Silent Failures
+All error states MUST return clear, user-readable error messages.
+No bare except blocks. No swallowed exceptions. No empty error responses.
+If an agent cannot complete its work, it logs the failure and raises an exception.
+
+### Rule 6: Module Independence
+Each module (inventory, hr, finance) MUST use the shared infrastructure:
+- Same BaseAgent for audit logging
+- Same Recommendation model for action items
+- Same AuditLog model for traceability
+- Same approval endpoints for HITL
+New modules MUST NOT require changes to existing modules or shared infrastructure.
+
+## Code Style
+- Python 3.11+
+- Type hints required on all function signatures
+- Docstrings on all classes and public methods
+- Use logging module, not print statements
+- SQLAlchemy 2.0 style queries
+- Ruff for linting (line length 120)
+
+## Database Rules
+- SQLite for local development, PostgreSQL for production
+- All tables have created_at timestamps
+- Foreign keys enforced
+- Audit log is APPEND-ONLY: never update or delete records
+- Use get_db() dependency injection for all database access
+- The `module` field on Dataset, Recommendation, and AuditLog identifies the owning module
+
+## Agent Development Rules
+- Each agent is a class inheriting from BaseAgent
+- Each agent implements run() as its entry point
+- Agents call reusable skill functions from analysis/ or modules/ packages
+- Agents do not call other agents directly — the API layer orchestrates the pipeline
+- New business rules go in InsightAgent (inventory) or module-specific agents (HR), not in analysis modules
+  (analysis modules compute facts, agents interpret them)
+
+## Module Development Rules
+- Module agents live in app/modules/{module_name}/ directory
+- Module API routes live in app/api/{module_name}.py
+- Module models are added to app/models.py (single source of truth for schema)
+- Module sample data generators live in samples/generate_{module}_data.py
+- Module tests live in tests/test_{module}.py
+- Every new module MUST have at least one end-to-end pipeline test
+
+## Testing Rules
+- pytest for all tests
+- Every agent must have at least one test
+- Tests use in-memory SQLite, not the dev database
+- Sample data fixtures in conftest.py
+- CI pipeline must genuinely pass (no || true)
+
+## Git Workflow
+- Commit messages reference story IDs: feat(US-XX): description
+- Prefixes: feat:|fix:|docs:|test:|refactor:|ci:
+- Never commit .env files, API keys, or database files
+- Progressive commits — not a single dump
+

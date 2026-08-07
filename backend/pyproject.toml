@@ -1,0 +1,12 @@
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+ignore = [
+    "B008",     # Do not perform function call `Depends` in argument defaults
+    "DTZ003",   # `datetime.datetime.utcnow()` used
+    "ASYNC230", # Async functions should not open files with blocking methods
+    "RUF012",   # Mutable class attributes should be annotated with `typing.ClassVar`
+]
+select = ["E", "F", "W", "I", "UP", "SIM", "PIE"]

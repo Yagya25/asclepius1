@@ -1,0 +1,6 @@
+.recharts-cartesian-axis-tick text {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  fill: hsl(240 4% 55%);
+}
+.recharts-tooltip-cursor { fill: hsl(40 12% 94% / 0.6); }

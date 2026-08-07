@@ -1,0 +1,251 @@
+Date,Medicine_Name,Category,Batch_No,Expiry_Date,Quantity,Unit_Price,Total_Amount,Chemist_Name
+2026-06-05,Pantoprazole 40mg,Gastro,BATCH-100,2027-03-28,7,65.0,455.0,Frank Ross Pharmacy
+2026-07-27,Cetirizine 10mg,Antihistamine,BATCH-101,2026-12-29,26,18.0,468.0,MedPlus Chemist
+2026-07-19,Montelukast 10mg,Respiratory,BATCH-102,2027-07-31,12,72.0,864.0,City Chemist
+2026-07-25,Omeprazole 20mg,Gastro,BATCH-103,2026-12-30,36,45.0,1620.0,City Chemist
+2026-07-06,Ciprofloxacin 500mg,Antibiotic,BATCH-104,2027-02-27,16,55.0,880.0,Frank Ross Pharmacy
+2026-07-09,Dolo 650mg,Analgesic,BATCH-105,2027-01-11,29,28.0,812.0,Reliable Medical
+2026-03-25,Omeprazole 20mg,Gastro,BATCH-106,2027-06-10,43,45.0,1935.0,Reliable Medical
+2026-01-13,Cetirizine 10mg,Antihistamine,BATCH-107,2026-07-18,49,18.0,882.0,Jan Aushadhi Store
+2026-06-26,Ciprofloxacin 500mg,Antibiotic,BATCH-108,2027-03-17,24,55.0,1320.0,MedPlus Chemist
+2026-06-13,Paracetamol 500mg,Analgesic,BATCH-109,2027-08-31,37,25.0,925.0,City Chemist
+2026-06-01,Ibuprofen 400mg,Analgesic,BATCH-110,2027-03-06,12,22.0,264.0,Apollo Pharmacy
+2026-06-23,Montelukast 10mg,Respiratory,BATCH-111,2027-05-12,12,72.0,864.0,Fortis Hospital Pharmacy
+2026-04-21,Dolo 650mg,Analgesic,BATCH-112,2027-08-16,17,28.0,476.0,Lifeline Pharmacy
+2026-06-05,Pantoprazole 40mg,Gastro,BATCH-113,2027-02-08,29,65.0,1885.0,Apollo Pharmacy
+2026-07-29,Metformin 500mg,Diabetes,BATCH-114,2027-07-09,21,35.0,735.0,MedPlus Chemist
+2026-04-04,Metformin 500mg,Diabetes,BATCH-115,2027-02-26,22,35.0,770.0,MedPlus Chemist
+2026-04-04,Dolo 650mg,Analgesic,BATCH-116,2026-09-22,25,28.0,700.0,Reliable Medical
+2026-06-17,Metformin 500mg,Diabetes,BATCH-117,2026-12-09,23,35.0,805.0,Apollo Pharmacy
+2026-06-29,Ibuprofen 400mg,Analgesic,BATCH-118,2027-08-26,14,22.0,308.0,Green Cross Chemist
+2026-05-08,Ibuprofen 400mg,Analgesic,BATCH-119,2027-08-27,34,22.0,748.0,Reliable Medical
+2026-05-17,Omeprazole 20mg,Gastro,BATCH-100,2026-08-28,5,45.0,225.0,Jan Aushadhi Store
+2026-07-27,Crocin 650mg,Analgesic,BATCH-101,2027-07-09,13,30.0,390.0,MedPlus Chemist
+2026-07-25,Ibuprofen 400mg,Analgesic,BATCH-102,2026-12-03,12,22.0,264.0,Apollo Pharmacy
+2026-04-17,Dolo 650mg,Analgesic,BATCH-103,2026-07-27,44,28.0,1232.0,Apollo Pharmacy
+2026-05-19,Losartan 50mg,Cardiac,BATCH-104,2027-01-04,43,48.0,2064.0,Frank Ross Pharmacy
+2026-06-09,Ibuprofen 400mg,Analgesic,BATCH-105,2027-03-08,33,22.0,726.0,Apollo Pharmacy
+2026-05-31,Pantoprazole 40mg,Gastro,BATCH-106,2027-07-06,10,65.0,650.0,Max Care Pharmacy
+2026-06-14,Amoxicillin 250mg,Antibiotic,BATCH-107,2027-02-20,49,85.0,4165.0,City Chemist
+2026-07-19,Crocin 650mg,Analgesic,BATCH-108,2027-11-23,45,30.0,1350.0,City Chemist
+2026-05-19,Crocin 650mg,Analgesic,BATCH-109,2027-05-18,28,30.0,840.0,Frank Ross Pharmacy
+2026-07-13,Pantoprazole 40mg,Gastro,BATCH-110,2027-08-15,44,65.0,2860.0,Frank Ross Pharmacy
+2026-01-06,Metformin 500mg,Diabetes,BATCH-111,2026-09-06,23,35.0,805.0,Apollo Pharmacy
+2026-02-07,Cetirizine 10mg,Antihistamine,BATCH-112,2027-04-13,41,18.0,738.0,MedPlus Chemist
+2026-06-26,Azithromycin 500mg,Antibiotic,BATCH-113,2027-02-04,47,120.0,5640.0,Jan Aushadhi Store
+2026-02-27,Ciprofloxacin 500mg,Antibiotic,BATCH-114,2026-08-10,36,55.0,1980.0,Jan Aushadhi Store
+2026-07-07,Azithromycin 500mg,Antibiotic,BATCH-115,2027-03-09,23,120.0,2760.0,Fortis Hospital Pharmacy
+2026-04-14,Augmentin 625mg,Antibiotic,BATCH-116,2027-07-02,32,180.0,5760.0,Frank Ross Pharmacy
+2026-02-17,Ciprofloxacin 500mg,Antibiotic,BATCH-117,2026-07-23,44,55.0,2420.0,MedPlus Chemist
+2026-07-27,Ibuprofen 400mg,Analgesic,BATCH-118,2027-11-20,8,22.0,176.0,Max Care Pharmacy
+2026-04-21,Augmentin 625mg,Antibiotic,BATCH-119,2026-12-20,20,180.0,3600.0,Green Cross Chemist
+2026-04-29,Augmentin 625mg,Antibiotic,BATCH-100,2027-02-19,18,180.0,3240.0,Max Care Pharmacy
+2026-03-08,Omeprazole 20mg,Gastro,BATCH-101,2026-09-01,28,45.0,1260.0,MedPlus Chemist
+2026-01-26,Ciprofloxacin 500mg,Antibiotic,BATCH-102,2027-03-21,24,55.0,1320.0,Green Cross Chemist
+2026-03-08,Ciprofloxacin 500mg,Antibiotic,BATCH-103,2026-05-11,28,55.0,1540.0,Frank Ross Pharmacy
+2026-01-27,Crocin 650mg,Analgesic,BATCH-104,2026-07-18,20,30.0,600.0,Lifeline Pharmacy
+2026-07-23,Ibuprofen 400mg,Analgesic,BATCH-105,2027-03-20,45,22.0,990.0,Frank Ross Pharmacy
+2026-06-24,Augmentin 625mg,Antibiotic,BATCH-106,2027-08-08,38,180.0,6840.0,Lifeline Pharmacy
+2026-05-20,Amoxicillin 250mg,Antibiotic,BATCH-107,2026-11-27,27,85.0,2295.0,Jan Aushadhi Store
+2026-04-22,Metformin 500mg,Diabetes,BATCH-108,2027-02-21,5,35.0,175.0,Fortis Hospital Pharmacy
+2026-06-07,Omeprazole 20mg,Gastro,BATCH-109,2027-08-18,7,45.0,315.0,MedPlus Chemist
+2026-03-25,Pantoprazole 40mg,Gastro,BATCH-110,2027-05-30,26,65.0,1690.0,Green Cross Chemist
+2026-04-20,Cetirizine 10mg,Antihistamine,BATCH-111,2027-04-16,19,18.0,342.0,Lifeline Pharmacy
+2026-05-01,Omeprazole 20mg,Gastro,BATCH-112,2026-09-07,9,45.0,405.0,Reliable Medical
+2026-07-15,Paracetamol 500mg,Analgesic,BATCH-113,2026-09-30,31,25.0,775.0,Fortis Hospital Pharmacy
+2026-04-14,Pantoprazole 40mg,Gastro,BATCH-114,2026-12-21,27,65.0,1755.0,Frank Ross Pharmacy
+2026-05-18,Crocin 650mg,Analgesic,BATCH-115,2027-01-12,29,30.0,870.0,Max Care Pharmacy
+2026-07-22,Paracetamol 500mg,Analgesic,BATCH-116,2027-10-02,9,25.0,225.0,Max Care Pharmacy
+2026-02-24,Montelukast 10mg,Respiratory,BATCH-117,2026-06-19,41,72.0,2952.0,Reliable Medical
+2026-04-03,Dolo 650mg,Analgesic,BATCH-118,2026-08-13,9,28.0,252.0,City Chemist
+2026-07-12,Dolo 650mg,Analgesic,BATCH-119,2027-03-16,44,28.0,1232.0,MedPlus Chemist
+2026-03-31,Crocin 650mg,Analgesic,BATCH-100,2027-06-12,17,30.0,510.0,Fortis Hospital Pharmacy
+2026-05-02,Atorvastatin 10mg,Cardiac,BATCH-101,2026-10-11,34,90.0,3060.0,City Chemist
+2026-07-03,Ibuprofen 400mg,Analgesic,BATCH-102,2027-05-05,38,22.0,836.0,Lifeline Pharmacy
+2026-03-30,Ibuprofen 400mg,Analgesic,BATCH-103,2027-06-17,16,22.0,352.0,Jan Aushadhi Store
+2026-02-09,Metformin 500mg,Diabetes,BATCH-104,2026-07-29,41,35.0,1435.0,City Chemist
+2026-07-10,Paracetamol 500mg,Analgesic,BATCH-105,2027-03-08,46,25.0,1150.0,Apollo Pharmacy
+2026-03-20,Ciprofloxacin 500mg,Antibiotic,BATCH-106,2026-06-09,21,55.0,1155.0,Reliable Medical
+2026-07-27,Cetirizine 10mg,Antihistamine,BATCH-107,2027-04-02,12,18.0,216.0,Frank Ross Pharmacy
+2026-01-17,Ibuprofen 400mg,Analgesic,BATCH-108,2026-08-05,30,22.0,660.0,Apollo Pharmacy
+2026-03-22,Paracetamol 500mg,Analgesic,BATCH-109,2027-07-23,18,25.0,450.0,City Chemist
+2026-04-20,Cetirizine 10mg,Antihistamine,BATCH-110,2027-02-12,18,18.0,324.0,Frank Ross Pharmacy
+2026-01-27,Atorvastatin 10mg,Cardiac,BATCH-111,2026-11-23,17,90.0,1530.0,City Chemist
+2026-06-12,Ibuprofen 400mg,Analgesic,BATCH-112,2027-02-23,10,22.0,220.0,Reliable Medical
+2026-02-18,Cetirizine 10mg,Antihistamine,BATCH-113,2026-11-21,27,18.0,486.0,Lifeline Pharmacy
+2026-02-16,Amoxicillin 250mg,Antibiotic,BATCH-114,2026-05-06,9,85.0,765.0,Lifeline Pharmacy
+2026-02-28,Cetirizine 10mg,Antihistamine,BATCH-115,2027-05-21,22,18.0,396.0,City Chemist
+2026-01-14,Paracetamol 500mg,Analgesic,BATCH-116,2026-03-27,18,25.0,450.0,Green Cross Chemist
+2026-05-23,Metformin 500mg,Diabetes,BATCH-117,2026-09-22,23,35.0,805.0,Fortis Hospital Pharmacy
+2026-03-22,Dolo 650mg,Analgesic,BATCH-118,2027-06-27,39,28.0,1092.0,Frank Ross Pharmacy
+2026-06-12,Azithromycin 500mg,Antibiotic,BATCH-119,2026-12-10,36,120.0,4320.0,Jan Aushadhi Store
+2026-06-01,Augmentin 625mg,Antibiotic,BATCH-100,2027-06-22,21,180.0,3780.0,Max Care Pharmacy
+2026-03-06,Dolo 650mg,Analgesic,BATCH-101,2027-02-16,39,28.0,1092.0,MedPlus Chemist
+2026-02-27,Azithromycin 500mg,Antibiotic,BATCH-102,2027-06-22,18,120.0,2160.0,City Chemist
+2026-02-09,Ibuprofen 400mg,Analgesic,BATCH-103,2026-11-15,20,22.0,440.0,Jan Aushadhi Store
+2026-06-22,Losartan 50mg,Cardiac,BATCH-104,2027-05-31,30,48.0,1440.0,Jan Aushadhi Store
+2026-01-31,Montelukast 10mg,Respiratory,BATCH-105,2026-12-02,7,72.0,504.0,MedPlus Chemist
+2026-01-15,Atorvastatin 10mg,Cardiac,BATCH-106,2026-08-21,47,90.0,4230.0,Max Care Pharmacy
+2026-02-14,Omeprazole 20mg,Gastro,BATCH-107,2027-01-03,6,45.0,270.0,Fortis Hospital Pharmacy
+2026-04-18,Metformin 500mg,Diabetes,BATCH-108,2026-10-19,43,35.0,1505.0,Max Care Pharmacy
+2026-01-30,Omeprazole 20mg,Gastro,BATCH-109,2026-11-15,14,45.0,630.0,Frank Ross Pharmacy
+2026-07-16,Amoxicillin 250mg,Antibiotic,BATCH-110,2027-11-10,33,85.0,2805.0,MedPlus Chemist
+2026-06-20,Augmentin 625mg,Antibiotic,BATCH-111,2027-01-16,49,180.0,8820.0,MedPlus Chemist
+2026-07-03,Pantoprazole 40mg,Gastro,BATCH-112,2026-09-04,48,65.0,3120.0,City Chemist
+2026-01-06,Montelukast 10mg,Respiratory,BATCH-113,2026-06-20,36,72.0,2592.0,Fortis Hospital Pharmacy
+2026-05-02,Amoxicillin 250mg,Antibiotic,BATCH-114,2027-02-14,36,85.0,3060.0,Max Care Pharmacy
+2026-01-06,Ciprofloxacin 500mg,Antibiotic,BATCH-115,2026-06-20,7,55.0,385.0,Jan Aushadhi Store
+2026-04-06,Dolo 650mg,Analgesic,BATCH-116,2027-05-07,8,28.0,224.0,Apollo Pharmacy
+2026-05-13,Omeprazole 20mg,Gastro,BATCH-117,2027-02-10,36,45.0,1620.0,Frank Ross Pharmacy
+2026-02-04,Atorvastatin 10mg,Cardiac,BATCH-118,2026-10-14,26,90.0,2340.0,City Chemist
+2026-04-22,Azithromycin 500mg,Antibiotic,BATCH-119,2027-02-26,15,120.0,1800.0,City Chemist
+2026-05-17,Ciprofloxacin 500mg,Antibiotic,BATCH-100,2026-10-10,16,55.0,880.0,Frank Ross Pharmacy
+2026-01-18,Losartan 50mg,Cardiac,BATCH-101,2027-02-10,45,48.0,2160.0,Apollo Pharmacy
+2026-03-24,Metformin 500mg,Diabetes,BATCH-102,2026-07-08,9,35.0,315.0,Lifeline Pharmacy
+2026-01-30,Azithromycin 500mg,Antibiotic,BATCH-103,2027-05-16,29,120.0,3480.0,Fortis Hospital Pharmacy
+2026-04-22,Amoxicillin 250mg,Antibiotic,BATCH-104,2026-09-02,29,85.0,2465.0,Max Care Pharmacy
+2026-02-27,Losartan 50mg,Cardiac,BATCH-105,2027-05-07,34,48.0,1632.0,Lifeline Pharmacy
+2026-01-25,Ibuprofen 400mg,Analgesic,BATCH-106,2027-03-15,18,22.0,396.0,Green Cross Chemist
+2026-01-10,Azithromycin 500mg,Antibiotic,BATCH-107,2026-03-21,39,120.0,4680.0,MedPlus Chemist
+2026-06-22,Pantoprazole 40mg,Gastro,BATCH-108,2027-03-17,11,65.0,715.0,Reliable Medical
+2026-03-17,Losartan 50mg,Cardiac,BATCH-109,2026-07-08,46,48.0,2208.0,MedPlus Chemist
+2026-01-18,Dolo 650mg,Analgesic,BATCH-110,2026-09-21,39,28.0,1092.0,Apollo Pharmacy
+2026-07-04,Ciprofloxacin 500mg,Antibiotic,BATCH-111,2027-11-06,48,55.0,2640.0,City Chemist
+2026-03-17,Ibuprofen 400mg,Analgesic,BATCH-112,2027-06-07,17,22.0,374.0,Lifeline Pharmacy
+2026-05-10,Metformin 500mg,Diabetes,BATCH-113,2027-05-19,30,35.0,1050.0,City Chemist
+2026-01-07,Dolo 650mg,Analgesic,BATCH-114,2027-03-22,44,28.0,1232.0,Max Care Pharmacy
+2026-03-04,Augmentin 625mg,Antibiotic,BATCH-115,2027-05-13,21,180.0,3780.0,Apollo Pharmacy
+2026-01-08,Azithromycin 500mg,Antibiotic,BATCH-116,2026-06-06,9,120.0,1080.0,Reliable Medical
+2026-04-03,Azithromycin 500mg,Antibiotic,BATCH-117,2026-09-10,16,120.0,1920.0,City Chemist
+2026-05-24,Losartan 50mg,Cardiac,BATCH-118,2026-10-01,18,48.0,864.0,Fortis Hospital Pharmacy
+2026-05-04,Montelukast 10mg,Respiratory,BATCH-119,2027-04-13,41,72.0,2952.0,Jan Aushadhi Store
+2026-06-24,Crocin 650mg,Analgesic,BATCH-100,2026-12-06,23,30.0,690.0,Jan Aushadhi Store
+2026-01-27,Pantoprazole 40mg,Gastro,BATCH-101,2026-08-22,33,65.0,2145.0,Reliable Medical
+2026-03-04,Omeprazole 20mg,Gastro,BATCH-102,2027-05-23,40,45.0,1800.0,City Chemist
+2026-07-16,Cetirizine 10mg,Antihistamine,BATCH-103,2026-10-13,40,18.0,720.0,MedPlus Chemist
+2026-02-03,Montelukast 10mg,Respiratory,BATCH-104,2027-06-04,17,72.0,1224.0,Frank Ross Pharmacy
+2026-04-10,Losartan 50mg,Cardiac,BATCH-105,2026-12-05,26,48.0,1248.0,City Chemist
+2026-03-14,Azithromycin 500mg,Antibiotic,BATCH-106,2027-06-19,43,120.0,5160.0,Jan Aushadhi Store
+2026-04-26,Cetirizine 10mg,Antihistamine,BATCH-107,2026-11-19,19,18.0,342.0,City Chemist
+2026-02-19,Omeprazole 20mg,Gastro,BATCH-108,2026-04-24,22,45.0,990.0,Jan Aushadhi Store
+2026-05-06,Azithromycin 500mg,Antibiotic,BATCH-109,2026-12-16,15,120.0,1800.0,Fortis Hospital Pharmacy
+2026-03-09,Cetirizine 10mg,Antihistamine,BATCH-110,2027-03-03,33,18.0,594.0,Lifeline Pharmacy
+2026-05-17,Amoxicillin 250mg,Antibiotic,BATCH-111,2026-10-18,46,85.0,3910.0,Lifeline Pharmacy
+2026-05-27,Metformin 500mg,Diabetes,BATCH-112,2026-12-31,46,35.0,1610.0,Jan Aushadhi Store
+2026-03-26,Crocin 650mg,Analgesic,BATCH-113,2027-04-28,35,30.0,1050.0,Green Cross Chemist
+2026-02-01,Ibuprofen 400mg,Analgesic,BATCH-114,2026-10-05,6,22.0,132.0,Reliable Medical
+2026-05-10,Azithromycin 500mg,Antibiotic,BATCH-115,2027-05-20,6,120.0,720.0,Lifeline Pharmacy
+2026-04-06,Atorvastatin 10mg,Cardiac,BATCH-116,2026-06-20,20,90.0,1800.0,Apollo Pharmacy
+2026-06-08,Losartan 50mg,Cardiac,BATCH-117,2026-11-02,47,48.0,2256.0,Fortis Hospital Pharmacy
+2026-03-26,Paracetamol 500mg,Analgesic,BATCH-118,2027-04-16,8,25.0,200.0,Fortis Hospital Pharmacy
+2026-05-20,Ciprofloxacin 500mg,Antibiotic,BATCH-119,2027-02-12,35,55.0,1925.0,MedPlus Chemist
+2026-02-16,Paracetamol 500mg,Analgesic,BATCH-100,2026-10-14,32,25.0,800.0,Apollo Pharmacy
+2026-05-10,Ciprofloxacin 500mg,Antibiotic,BATCH-101,2027-04-14,46,55.0,2530.0,Fortis Hospital Pharmacy
+2026-06-03,Azithromycin 500mg,Antibiotic,BATCH-102,2027-05-24,15,120.0,1800.0,Frank Ross Pharmacy
+2026-01-12,Amoxicillin 250mg,Antibiotic,BATCH-103,2026-12-20,7,85.0,595.0,Frank Ross Pharmacy
+2026-07-13,Paracetamol 500mg,Analgesic,BATCH-104,2027-10-01,20,25.0,500.0,City Chemist
+2026-01-30,Augmentin 625mg,Antibiotic,BATCH-105,2026-09-12,24,180.0,4320.0,City Chemist
+2026-04-06,Augmentin 625mg,Antibiotic,BATCH-106,2027-03-29,14,180.0,2520.0,Green Cross Chemist
+2026-03-18,Atorvastatin 10mg,Cardiac,BATCH-107,2027-05-25,45,90.0,4050.0,Apollo Pharmacy
+2026-07-27,Ciprofloxacin 500mg,Antibiotic,BATCH-108,2026-10-16,49,55.0,2695.0,Reliable Medical
+2026-04-17,Omeprazole 20mg,Gastro,BATCH-109,2026-07-26,31,45.0,1395.0,Jan Aushadhi Store
+2026-03-30,Amoxicillin 250mg,Antibiotic,BATCH-110,2026-06-09,6,85.0,510.0,Lifeline Pharmacy
+2026-03-17,Atorvastatin 10mg,Cardiac,BATCH-111,2026-12-02,30,90.0,2700.0,Green Cross Chemist
+2026-06-25,Ciprofloxacin 500mg,Antibiotic,BATCH-112,2026-10-01,24,55.0,1320.0,Green Cross Chemist
+2026-03-06,Augmentin 625mg,Antibiotic,BATCH-113,2027-06-16,40,180.0,7200.0,MedPlus Chemist
+2026-06-08,Cetirizine 10mg,Antihistamine,BATCH-114,2027-02-16,18,18.0,324.0,MedPlus Chemist
+2026-06-05,Montelukast 10mg,Respiratory,BATCH-115,2026-12-06,24,72.0,1728.0,Reliable Medical
+2026-05-29,Metformin 500mg,Diabetes,BATCH-116,2026-11-14,14,35.0,490.0,Max Care Pharmacy
+2026-05-26,Losartan 50mg,Cardiac,BATCH-117,2027-08-26,28,48.0,1344.0,Reliable Medical
+2026-03-17,Amoxicillin 250mg,Antibiotic,BATCH-118,2026-06-20,26,85.0,2210.0,Lifeline Pharmacy
+2026-01-22,Montelukast 10mg,Respiratory,BATCH-119,2026-07-27,18,72.0,1296.0,Jan Aushadhi Store
+2026-07-03,Montelukast 10mg,Respiratory,BATCH-100,2026-12-05,29,72.0,2088.0,Jan Aushadhi Store
+2026-05-28,Paracetamol 500mg,Analgesic,BATCH-101,2027-05-16,22,25.0,550.0,Jan Aushadhi Store
+2026-04-19,Crocin 650mg,Analgesic,BATCH-102,2026-12-21,20,30.0,600.0,Fortis Hospital Pharmacy
+2026-05-29,Pantoprazole 40mg,Gastro,BATCH-103,2027-03-27,44,65.0,2860.0,Jan Aushadhi Store
+2026-07-25,Losartan 50mg,Cardiac,BATCH-104,2027-10-23,10,48.0,480.0,Fortis Hospital Pharmacy
+2026-05-22,Paracetamol 500mg,Analgesic,BATCH-105,2026-09-04,11,25.0,275.0,Fortis Hospital Pharmacy
+2026-06-18,Ibuprofen 400mg,Analgesic,BATCH-106,2026-11-22,48,22.0,1056.0,Apollo Pharmacy
+2026-03-28,Pantoprazole 40mg,Gastro,BATCH-107,2027-02-06,44,65.0,2860.0,Jan Aushadhi Store
+2026-01-31,Dolo 650mg,Analgesic,BATCH-108,2026-12-29,39,28.0,1092.0,Apollo Pharmacy
+2026-04-20,Augmentin 625mg,Antibiotic,BATCH-109,2027-04-02,27,180.0,4860.0,Frank Ross Pharmacy
+2026-02-04,Atorvastatin 10mg,Cardiac,BATCH-110,2026-10-22,9,90.0,810.0,Jan Aushadhi Store
+2026-06-02,Montelukast 10mg,Respiratory,BATCH-111,2027-05-05,35,72.0,2520.0,City Chemist
+2026-03-30,Amoxicillin 250mg,Antibiotic,BATCH-112,2027-01-30,12,85.0,1020.0,Reliable Medical
+2026-06-21,Paracetamol 500mg,Analgesic,BATCH-113,2026-11-23,27,25.0,675.0,Jan Aushadhi Store
+2026-02-23,Dolo 650mg,Analgesic,BATCH-114,2027-06-10,28,28.0,784.0,Fortis Hospital Pharmacy
+2026-01-16,Cetirizine 10mg,Antihistamine,BATCH-115,2026-04-05,39,18.0,702.0,Lifeline Pharmacy
+2026-07-12,Losartan 50mg,Cardiac,BATCH-116,2027-08-12,5,48.0,240.0,Frank Ross Pharmacy
+2026-03-11,Amoxicillin 250mg,Antibiotic,BATCH-117,2026-06-07,12,85.0,1020.0,Jan Aushadhi Store
+2026-05-11,Crocin 650mg,Analgesic,BATCH-118,2027-01-22,39,30.0,1170.0,Apollo Pharmacy
+2026-04-19,Dolo 650mg,Analgesic,BATCH-119,2026-08-29,24,28.0,672.0,Jan Aushadhi Store
+2026-01-19,Metformin 500mg,Diabetes,BATCH-100,2026-09-08,42,35.0,1470.0,Jan Aushadhi Store
+2026-03-27,Dolo 650mg,Analgesic,BATCH-101,2026-07-16,32,28.0,896.0,Green Cross Chemist
+2026-04-19,Ibuprofen 400mg,Analgesic,BATCH-102,2026-07-30,26,22.0,572.0,Reliable Medical
+2026-07-19,Crocin 650mg,Analgesic,BATCH-103,2027-08-28,46,30.0,1380.0,Max Care Pharmacy
+2026-05-31,Crocin 650mg,Analgesic,BATCH-104,2026-10-14,47,30.0,1410.0,Lifeline Pharmacy
+2026-01-20,Augmentin 625mg,Antibiotic,BATCH-105,2026-11-15,23,180.0,4140.0,Green Cross Chemist
+2026-01-12,Metformin 500mg,Diabetes,BATCH-106,2027-05-25,19,35.0,665.0,Frank Ross Pharmacy
+2026-02-11,Losartan 50mg,Cardiac,BATCH-107,2026-04-22,31,48.0,1488.0,Lifeline Pharmacy
+2026-06-20,Cetirizine 10mg,Antihistamine,BATCH-108,2027-09-12,23,18.0,414.0,MedPlus Chemist
+2026-04-23,Losartan 50mg,Cardiac,BATCH-109,2027-01-27,46,48.0,2208.0,Jan Aushadhi Store
+2026-03-13,Paracetamol 500mg,Analgesic,BATCH-110,2027-02-02,11,25.0,275.0,Frank Ross Pharmacy
+2026-06-02,Metformin 500mg,Diabetes,BATCH-111,2027-01-01,16,35.0,560.0,Jan Aushadhi Store
+2026-04-27,Cetirizine 10mg,Antihistamine,BATCH-112,2026-08-10,41,18.0,738.0,Frank Ross Pharmacy
+2026-07-27,Pantoprazole 40mg,Gastro,BATCH-113,2026-12-22,17,65.0,1105.0,Max Care Pharmacy
+2026-02-23,Montelukast 10mg,Respiratory,BATCH-114,2026-07-07,8,72.0,576.0,City Chemist
+2026-04-20,Paracetamol 500mg,Analgesic,BATCH-115,2027-06-01,15,25.0,375.0,Fortis Hospital Pharmacy
+2026-06-22,Cetirizine 10mg,Antihistamine,BATCH-116,2026-09-17,27,18.0,486.0,Green Cross Chemist
+2026-01-26,Dolo 650mg,Analgesic,BATCH-117,2026-05-19,29,28.0,812.0,Green Cross Chemist
+2026-04-07,Montelukast 10mg,Respiratory,BATCH-118,2027-03-02,40,72.0,2880.0,Frank Ross Pharmacy
+2026-01-30,Losartan 50mg,Cardiac,BATCH-119,2026-12-28,32,48.0,1536.0,Frank Ross Pharmacy
+2026-04-03,Crocin 650mg,Analgesic,BATCH-100,2026-08-19,49,30.0,1470.0,Jan Aushadhi Store
+2026-06-28,Losartan 50mg,Cardiac,BATCH-101,2026-12-10,42,48.0,2016.0,Max Care Pharmacy
+2026-03-05,Dolo 650mg,Analgesic,BATCH-102,2027-03-19,42,28.0,1176.0,Reliable Medical
+2026-01-07,Metformin 500mg,Diabetes,BATCH-103,2027-02-07,26,35.0,910.0,Green Cross Chemist
+2026-06-18,Amoxicillin 250mg,Antibiotic,BATCH-104,2027-01-01,14,85.0,1190.0,Apollo Pharmacy
+2026-05-05,Omeprazole 20mg,Gastro,BATCH-105,2027-05-07,42,45.0,1890.0,Fortis Hospital Pharmacy
+2026-06-30,Paracetamol 500mg,Analgesic,BATCH-106,2026-09-01,38,25.0,950.0,Apollo Pharmacy
+2026-06-20,Paracetamol 500mg,Analgesic,BATCH-107,2027-05-05,30,25.0,750.0,Jan Aushadhi Store
+2026-06-27,Paracetamol 500mg,Analgesic,BATCH-108,2027-03-02,13,25.0,325.0,Fortis Hospital Pharmacy
+2026-06-01,Crocin 650mg,Analgesic,BATCH-109,2027-05-18,23,30.0,690.0,Max Care Pharmacy
+2026-05-03,Amoxicillin 250mg,Antibiotic,BATCH-110,2027-04-10,47,85.0,3995.0,Jan Aushadhi Store
+2026-05-26,Losartan 50mg,Cardiac,BATCH-111,2027-09-10,32,48.0,1536.0,Green Cross Chemist
+2026-06-14,Crocin 650mg,Analgesic,BATCH-112,2026-09-20,21,30.0,630.0,Jan Aushadhi Store
+2026-06-25,Losartan 50mg,Cardiac,BATCH-113,2027-01-02,43,48.0,2064.0,Lifeline Pharmacy
+2026-07-22,Losartan 50mg,Cardiac,BATCH-114,2027-01-05,6,48.0,288.0,City Chemist
+2026-01-18,Augmentin 625mg,Antibiotic,BATCH-115,2026-09-15,30,180.0,5400.0,Jan Aushadhi Store
+2026-01-01,Ibuprofen 400mg,Analgesic,BATCH-116,2026-05-27,30,22.0,660.0,Fortis Hospital Pharmacy
+2026-03-11,Ciprofloxacin 500mg,Antibiotic,BATCH-117,2026-11-25,48,55.0,2640.0,City Chemist
+2026-01-19,Atorvastatin 10mg,Cardiac,BATCH-118,2027-04-25,41,90.0,3690.0,City Chemist
+2026-01-30,Ibuprofen 400mg,Analgesic,BATCH-119,2026-05-02,46,22.0,1012.0,Reliable Medical
+2026-01-12,Ciprofloxacin 500mg,Antibiotic,BATCH-100,2026-08-14,34,55.0,1870.0,Reliable Medical
+2026-05-29,Metformin 500mg,Diabetes,BATCH-101,2027-03-31,16,35.0,560.0,Green Cross Chemist
+2026-07-09,Montelukast 10mg,Respiratory,BATCH-102,2027-05-22,19,72.0,1368.0,Apollo Pharmacy
+2026-04-27,Azithromycin 500mg,Antibiotic,BATCH-103,2027-09-06,48,120.0,5760.0,Fortis Hospital Pharmacy
+2026-05-15,Amoxicillin 250mg,Antibiotic,BATCH-104,2027-02-08,47,85.0,3995.0,Frank Ross Pharmacy
+2026-06-14,Augmentin 625mg,Antibiotic,BATCH-105,2027-08-11,37,180.0,6660.0,City Chemist
+2026-01-11,Dolo 650mg,Analgesic,BATCH-106,2027-03-25,8,28.0,224.0,Lifeline Pharmacy
+2026-04-23,Amoxicillin 250mg,Antibiotic,BATCH-107,2026-09-22,38,85.0,3230.0,Jan Aushadhi Store
+2026-07-13,Atorvastatin 10mg,Cardiac,BATCH-108,2027-09-28,48,90.0,4320.0,City Chemist
+2026-01-25,Cetirizine 10mg,Antihistamine,BATCH-109,2026-05-19,25,18.0,450.0,Lifeline Pharmacy
+2026-06-05,Dolo 650mg,Analgesic,BATCH-110,2027-03-11,36,28.0,1008.0,Fortis Hospital Pharmacy
+2026-06-26,Crocin 650mg,Analgesic,BATCH-111,2027-10-27,13,30.0,390.0,Fortis Hospital Pharmacy
+2026-07-16,Cetirizine 10mg,Antihistamine,BATCH-112,2026-11-05,46,18.0,828.0,Reliable Medical
+2026-02-08,Dolo 650mg,Analgesic,BATCH-113,2027-05-26,19,28.0,532.0,Lifeline Pharmacy
+2026-03-24,Dolo 650mg,Analgesic,BATCH-114,2027-05-05,14,28.0,392.0,Frank Ross Pharmacy
+2026-01-06,Montelukast 10mg,Respiratory,BATCH-115,2026-06-25,16,72.0,1152.0,Frank Ross Pharmacy
+2026-03-08,Cetirizine 10mg,Antihistamine,BATCH-116,2026-05-14,12,18.0,216.0,Frank Ross Pharmacy
+2026-03-25,Metformin 500mg,Diabetes,BATCH-117,2026-11-18,8,35.0,280.0,Lifeline Pharmacy
+2026-02-14,Pantoprazole 40mg,Gastro,BATCH-118,2027-03-23,12,65.0,780.0,Frank Ross Pharmacy
+2026-01-09,Montelukast 10mg,Respiratory,BATCH-119,2027-02-05,18,72.0,1296.0,Frank Ross Pharmacy
+2026-03-12,Pantoprazole 40mg,Gastro,BATCH-100,2027-04-02,19,65.0,1235.0,Green Cross Chemist
+2026-06-18,Cetirizine 10mg,Antihistamine,BATCH-101,2027-09-28,26,18.0,468.0,MedPlus Chemist
+2026-06-21,Paracetamol 500mg,Analgesic,BATCH-102,2027-05-12,5,25.0,125.0,Reliable Medical
+2026-07-03,Dolo 650mg,Analgesic,BATCH-103,2027-07-03,29,28.0,812.0,Max Care Pharmacy
+2026-07-28,Augmentin 625mg,Antibiotic,BATCH-104,2027-09-28,30,180.0,5400.0,Green Cross Chemist
+2026-06-13,Losartan 50mg,Cardiac,BATCH-105,2027-01-29,27,48.0,1296.0,Green Cross Chemist
+2026-06-20,Cetirizine 10mg,Antihistamine,BATCH-106,2026-09-05,29,18.0,522.0,Reliable Medical
+2026-02-28,Losartan 50mg,Cardiac,BATCH-107,2026-10-24,32,48.0,1536.0,MedPlus Chemist
+2026-03-09,Atorvastatin 10mg,Cardiac,BATCH-108,2027-03-26,38,90.0,3420.0,Green Cross Chemist
+2026-01-06,Ciprofloxacin 500mg,Antibiotic,BATCH-109,2026-12-11,20,55.0,1100.0,Max Care Pharmacy

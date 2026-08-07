@@ -1,0 +1,20 @@
+{
+  "title": "Pharma Sales Representative",
+  "department": "Sales",
+  "required_skills": [
+    "pharma sales",
+    "communication",
+    "excel",
+    "crm",
+    "product knowledge",
+    "territory management"
+  ],
+  "preferred_skills": [
+    "tally",
+    "erp",
+    "data analysis",
+    "inventory management"
+  ],
+  "min_experience_years": 2,
+  "description": "We are looking for a motivated Pharma Sales Representative to join our team. The ideal candidate will have experience in pharmaceutical distribution, strong communication skills, proficiency in CRM tools, and a proven track record in territory management. Knowledge of Excel and product catalog is essential. Experience with Tally/ERP systems and data analysis is preferred."
+}
